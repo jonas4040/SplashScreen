@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+
+    <string name="msg_button">Carregando...</string>
+    <string name="description_content">JF Musics</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
